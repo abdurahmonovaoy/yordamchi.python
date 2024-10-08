@@ -1,0 +1,3 @@
+ID	Familiya	Ismi	Pasport seriyasi	Telefon raqam	Tug'ilgan kuni
+1	Sunnatov	Abdulbosit	+998974294445	2003-04-29	12324354f
+2	hotamov	asil	281927891	2024-05-19	w1hw9012
